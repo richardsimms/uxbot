@@ -30,10 +30,10 @@ $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_
 
 
 // Database Stuff
-$dbHost = "THE DATABASE HOST ADDRESS";
-$dbName = "THE DATABASE NAME";
-$dbUserName = "THE DATABASE USERNAME";
-$dbPassword = "THE DATABASE PASSWORD";
+$dbHost = "eu-mm-auto-dub-01-c.cleardb.net";
+$dbName = "heroku_2b2d6dab632392e";
+$dbUserName = "b4cf6bfab04592";
+$dbPassword = "ac50efce";
 $dbTable = "THE NAME OF THE DATABASE TABLE";
 
 $dbConnection = mysqli_connect($dbHost, $dbUserName, $dbPassword,$dbName);
