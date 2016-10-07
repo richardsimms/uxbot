@@ -24,8 +24,8 @@ $siteURL="http://pacific-spire-28951.herokuapp.com/";
 
 // Slack Webhook integration
 $slackWebHookURL="https://hooks.slack.com/services/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";
-$slackRoom = "general";
-$slackBotName = "Stanley"; //THE NAME OF YOUR BOT
+$slackRoom = "#general";
+$slackBotName = "uxbot"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
 
 
