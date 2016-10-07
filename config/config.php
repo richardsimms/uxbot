@@ -10,21 +10,21 @@
 date_default_timezone_set('America/New_York');
 
 // General
-$projectName="STANLEY";
-$projectEmail="stanley@ideo.com";
-$projectPhoneNumber="YOUR PHONE NUMBER";
+$projectName="UXBOT";
+$projectEmail="rsimms@sapient.com";
+$projectPhoneNumber="+442033895446";
 
 
 // Twilio API credentials
-$accountSid = "YOUR ACCOUNT SID";
-$authToken = "YOUR ACCOUNT TOKEN"; //
-$twilioPhoneNumber = "YOUR TWILIO PHONE NUMBER";
-$siteURL="YOUR SITE URL";
+$accountSid = "ACd736c0ef81367c553aabf72478f393d7";
+$authToken = "318d339e9034e5ab8c85d10b4b21b590"; //
+$twilioPhoneNumber = "+442033895446";
+$siteURL="http://pacific-spire-28951.herokuapp.com/";
 
 
 // Slack Webhook integration
-$slackWebHookURL="YOUR SLACK PRIVATE CHANNEL WEB HOOK";
-$slackRoom = "THE NAME OF YOUR SLACK ROOM";
+$slackWebHookURL="https://hooks.slack.com/services/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";
+$slackRoom = "UXBOT";
 $slackBotName = "Stanley"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
 
