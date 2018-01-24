@@ -11,8 +11,8 @@ date_default_timezone_set('Europe/London');
 
 // General
 $projectName="UXBOT";
-$projectEmail="rsimms@sapient.com";
-$projectPhoneNumber="+442033895446";
+$projectEmail="richard@rsimms.com";
+$projectPhoneNumber="+6143711622";
 
 
 // Twilio API credentials
